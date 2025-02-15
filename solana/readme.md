@@ -1,5 +1,7 @@
 ### Solana projects
 
-```shell
-npx tsx src/2_read_keys.ts
-```
+получить sol в дев сети:
+https://faucet.solana.com
+
+explorer сети solana:
+https://explorer.solana.com
